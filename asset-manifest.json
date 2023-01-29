@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mikealvgar/curso-react/static/css/main.ea6536c2.css",
-    "main.js": "/mikealvgar/curso-react/static/js/main.7a25df60.js",
+    "main.js": "/mikealvgar/curso-react/static/js/main.1efbd32a.js",
     "index.html": "/mikealvgar/curso-react/index.html",
     "static/media/delete.svg": "/mikealvgar/curso-react/static/media/delete.84e4a932c97ebd0c6c78dd05068de6fb.svg",
     "static/media/check.svg": "/mikealvgar/curso-react/static/media/check.869a5e77f19ab8e1fd324a52c184d1b0.svg",
     "main.ea6536c2.css.map": "/mikealvgar/curso-react/static/css/main.ea6536c2.css.map",
-    "main.7a25df60.js.map": "/mikealvgar/curso-react/static/js/main.7a25df60.js.map"
+    "main.1efbd32a.js.map": "/mikealvgar/curso-react/static/js/main.1efbd32a.js.map"
   },
   "entrypoints": [
     "static/css/main.ea6536c2.css",
-    "static/js/main.7a25df60.js"
+    "static/js/main.1efbd32a.js"
   ]
 }
