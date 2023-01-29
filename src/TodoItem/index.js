@@ -4,11 +4,6 @@ import { DeleteIcon } from '../TodoIcon/DeleteIcon';
 import './TodoItem.css';
 
 function TodoItem(props){
-	
-
-	const onDelete = () => {
-		alert('Borraste el TODO ' + props.text);
-	}
 
     return (
 			<li className='TodoItem'>
